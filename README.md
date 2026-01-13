@@ -45,7 +45,7 @@ I used header files so the string functions can be reused in other projects. The
 - How to write reusable code
 
 ## Images / Demo Video
-![Click Here for the images](String_Operations_Header_project_on_10th_December_2025.png)
+![Click Here for the images](images/String_Operations_Header_project_on_10th_December_2025.png)
 
 [Click Here for the Demonstration Video](videos/String_Operations_Header_project_on_10th_December_2025.mp4)
 
